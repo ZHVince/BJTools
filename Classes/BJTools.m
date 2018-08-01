@@ -10,6 +10,9 @@
 
 @implementation BJTools
 
-
+-(void)sendMss
+{
+    
+}
 
 @end
