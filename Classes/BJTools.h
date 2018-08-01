@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 @interface BJTools : NSObject
--(void)sendMss;
+
 @end
